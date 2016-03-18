@@ -1,0 +1,8 @@
+C:\Users\Administrator\Desktop\DownloadSample\BackgroundWorkerDownLoad\bin\Debug\BackgroundWorkerDownLoad.exe.config
+C:\Users\Administrator\Desktop\DownloadSample\BackgroundWorkerDownLoad\obj\Debug\BackgroundWorkerDownLoad.Form1.resources
+C:\Users\Administrator\Desktop\DownloadSample\BackgroundWorkerDownLoad\obj\Debug\BackgroundWorkerDownLoad.Properties.Resources.resources
+C:\Users\Administrator\Desktop\DownloadSample\BackgroundWorkerDownLoad\obj\Debug\BackgroundWorkerDownLoad.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\DownloadSample\BackgroundWorkerDownLoad\bin\Debug\BackgroundWorkerDownLoad.exe
+C:\Users\Administrator\Desktop\DownloadSample\BackgroundWorkerDownLoad\bin\Debug\BackgroundWorkerDownLoad.pdb
+C:\Users\Administrator\Desktop\DownloadSample\BackgroundWorkerDownLoad\obj\Debug\BackgroundWorkerDownLoad.exe
+C:\Users\Administrator\Desktop\DownloadSample\BackgroundWorkerDownLoad\obj\Debug\BackgroundWorkerDownLoad.pdb

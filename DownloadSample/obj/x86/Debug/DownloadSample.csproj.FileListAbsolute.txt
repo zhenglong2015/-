@@ -1,0 +1,8 @@
+C:\Users\Administrator\Desktop\DownloadSample\DownloadSample\bin\Debug\DownloadSample.exe
+C:\Users\Administrator\Desktop\DownloadSample\DownloadSample\bin\Debug\DownloadSample.pdb
+C:\Users\Administrator\Desktop\DownloadSample\DownloadSample\obj\x86\Debug\DownloadSample.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\DownloadSample\DownloadSample\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Administrator\Desktop\DownloadSample\DownloadSample\obj\x86\Debug\DownloadSample.Properties.Resources.resources
+C:\Users\Administrator\Desktop\DownloadSample\DownloadSample\obj\x86\Debug\DownloadSample.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\DownloadSample\DownloadSample\obj\x86\Debug\DownloadSample.exe
+C:\Users\Administrator\Desktop\DownloadSample\DownloadSample\obj\x86\Debug\DownloadSample.pdb
